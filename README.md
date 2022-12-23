@@ -3,6 +3,7 @@ The most powerful and fastest DoS Attack Tool.
 Launching the most powerful DoS Attack tools at the same time.
 
 INSTALLATION:
+- `git clone https://github.com/giaquy-Dev/ARAFA-ALL.git`
 - `cd 0.1ArafaAllDoS`
 - `sudo apt install python3`
 - `python3 setup.py`
