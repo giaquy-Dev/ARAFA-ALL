@@ -8,7 +8,7 @@ INSTALLATION:
 - `pip3 install -r requirements.txt`
 - `sudo apt install python3`
 - `python3 setup.py`
-- `python3 0.1ArafaAllDoS`
+- `python3 0.1ArafaDoS.py
 # Libraries:
 - `pip2 install requests`
 - `pip2 install cprint`
