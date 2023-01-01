@@ -34,7 +34,7 @@ def pather(file,cloner):
 		cprint("[++] "+file+" installed successfully","green",attrs=["bold"],end=End)
 
 cprint("[+] Installing 0.1ArafaDoS...","cyan",attrs=["bold"])
-pather("0.1ArafaDoS","https://github.com/0Arafa/0.1ArafaDoS.git")
+pather("0.1ArafaDoS","https://github.com/giaquy-Dev/ARAFA-ALL.git")
 cprint("[+] Installing slowloris...","cyan",attrs=["bold"])
 system("sudo pip3 install slowloris")
 cprint("[++] slowloris installed successfully","green",attrs=["bold"],end=End)
